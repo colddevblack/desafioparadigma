@@ -1,0 +1,14 @@
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\bin\Debug\net8.0\Arvore_Estrutura.exe
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\bin\Debug\net8.0\Arvore_Estrutura.deps.json
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\bin\Debug\net8.0\Arvore_Estrutura.runtimeconfig.json
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\bin\Debug\net8.0\Arvore_Estrutura.dll
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\bin\Debug\net8.0\Arvore_Estrutura.pdb
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.AssemblyInfoInputs.cache
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.AssemblyInfo.cs
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.dll
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\refint\Arvore_Estrutura.dll
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.pdb
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\Arvore_Estrutura.genruntimeconfig.cache
+C:\Users\Cold\Documents\Arvore_Estrutura\Arvore_Estrutura\obj\Debug\net8.0\ref\Arvore_Estrutura.dll
